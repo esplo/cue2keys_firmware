@@ -1,8 +1,10 @@
 # Quantum Mechanical Keyboard Firmware
 
-**This repository is for old version of Cue2keys**
+**⚠️ This repository is for old version of Cue2keys**
 
 Refer v2 repository: [cue2keys/v2_qmk_fw](https://github.com/cue2keys/v2_qmk_fw)
+
+---
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 [![Discord](https://img.shields.io/discord/440868230475677696.svg)](https://discord.gg/qmk)
